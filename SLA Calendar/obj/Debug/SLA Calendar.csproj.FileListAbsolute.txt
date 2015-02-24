@@ -1,0 +1,9 @@
+c:\users\mohamed\documents\visual studio 2013\Projects\SLA Calendar\SLA Calendar\obj\Debug\SLACalendar.Form1.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\SLA Calendar\SLA Calendar\obj\Debug\SLACalendar.Properties.Resources.resources
+c:\users\mohamed\documents\visual studio 2013\Projects\SLA Calendar\SLA Calendar\obj\Debug\SLA Calendar.csproj.GenerateResource.Cache
+c:\users\mohamed\documents\visual studio 2013\Projects\SLA Calendar\SLA Calendar\bin\Debug\SLA Calendar.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\SLA Calendar\SLA Calendar\bin\Debug\SLA Calendar.pdb
+c:\users\mohamed\documents\visual studio 2013\Projects\SLA Calendar\SLA Calendar\obj\Debug\SLA Calendar.exe
+c:\users\mohamed\documents\visual studio 2013\Projects\SLA Calendar\SLA Calendar\obj\Debug\SLA Calendar.pdb
+E:\Programming\Projects\SLA Calendar\SLA Calendar\obj\Debug\SLA Calendar.exe
+E:\Programming\Projects\SLA Calendar\SLA Calendar\obj\Debug\SLA Calendar.pdb
